@@ -1,0 +1,5 @@
+create repo with name ci-with-github-actions
+clone the repo to my local
+added the python, test and requirements files
+created .github/workflows folder
+
