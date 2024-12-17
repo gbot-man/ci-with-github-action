@@ -3,3 +3,10 @@ clone the repo to my local
 added the python, test and requirements files
 created .github/workflows folder
 
+checkout to branch
+pull branch to local
+edit changes
+push local upstream to branch
+checkout to main
+pull main into branch
+push branch into main and merge
